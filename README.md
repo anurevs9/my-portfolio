@@ -4,9 +4,8 @@
 
 ## Demo
 
-[**https://my-portfolio-delta-five-66.vercel.app/**](Replace with your live website URL if deployed)
+[**https://my-portfolio-delta-five-66.vercel.app/**]
 
-*(If you haven't deployed it yet, you can remove or comment out this section)*
 
 ## Description
 
@@ -51,7 +50,6 @@ To run this project locally, follow these steps:
     git clone https://github.com/anurevs9/my-portfolio.git
     cd my-portfolio
     ```
-    *(Replace `[repository URL here]` with the actual URL of your GitHub repository and `[your-repository-folder-name]` with the cloned folder name.)*
 
 2.  **Install dependencies:**
 
